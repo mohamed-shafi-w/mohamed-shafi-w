@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mohamedshafi604@gmail.com**
 
-- ⚡ Fact **I am a Continuous Learner**
+- ⚡ **I am a Continuous Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
