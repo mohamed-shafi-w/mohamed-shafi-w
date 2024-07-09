@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shafi W</h1>
 <h3 align="center">A Cloud Engineer Enthusiast</h3>
 
-<img align="right" alt="coding" width=400 src="![boy](https://github.com/mohamed-shafi-w/mohamed-shafi-w/assets/171848531/11a70999-5560-422c-9c63-e53b119e0b13)
-">
+<img align="right" alt="coding" width=400 src="https://github.com/mohamed-shafi-w/mohamed-shafi-w/blob/main/boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-shafi-w&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-shafi-w" /> </p>
 
