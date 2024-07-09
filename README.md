@@ -1,3 +1,4 @@
+![logo](https://github.com/mohamed-shafi-w/mohamed-shafi-w/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Shafi W</h1>
 <h3 align="center">A Cloud Engineer Enthusiast</h3>
 
