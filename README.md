@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQHzTmN_ptIhNA/profile-displaybackgroundimage-shrink_350_1400/0/1719346291977?e=1726099200&v=beta&t=0FuxVRlAqdq7j5yF0ZYltp6B3W9S9INrF2hjzS3KVTk)
 <h1 align="center">Hi 👋, I'm Mohamed Shafi W</h1>
-<h3 align="center">A Cloud Engineer Enthusiast</h3>
+<h3 align="center">A DevOps Engineer Enthusiast</h3>
 
 <img align="right" alt="coding" width=400 src="https://github.com/mohamed-shafi-w/mohamed-shafi-w/blob/main/github%20gif.gif">
 
